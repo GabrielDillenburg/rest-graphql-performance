@@ -1,0 +1,12 @@
+{
+  "name": "microservice-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "graphql": "^15.5.0"
+  }
+}
