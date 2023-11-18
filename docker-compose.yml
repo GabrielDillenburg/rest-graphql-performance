@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  rest-api:
+    build: ./microservice-rest
+    ports:
+      - "3000:3000"
+  graphql-api:
+    build: ./microservice-graphql
+    ports:
+      - "4000:4000"
