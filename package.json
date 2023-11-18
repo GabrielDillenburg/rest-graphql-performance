@@ -1,0 +1,23 @@
+{
+  "name": "rest-graphql-performance",
+  "version": "1.0.0",
+  "description": "Comparative Analysis of REST and GraphQL in Microservices Systems: Evaluating Performance, Scalability and Maintainability\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielDillenburg/rest-graphql-performance.git"
+  },
+  "keywords": [
+    "api",
+    "performance"
+  ],
+  "author": "@GabrielDillenburg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabrielDillenburg/rest-graphql-performance/issues"
+  },
+  "homepage": "https://github.com/GabrielDillenburg/rest-graphql-performance#readme"
+}
