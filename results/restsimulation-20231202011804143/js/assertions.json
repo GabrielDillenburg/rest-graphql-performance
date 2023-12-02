@@ -1,0 +1,10 @@
+{
+  "simulation": "rest.RestSimulation",
+  "simulationId": "restsimulation-20231202011804143",
+  "start": 1701479885719,
+  "description": "Rest Test",
+  "scenarios": ["REST Users"],
+  "assertions": [
+
+  ]
+}

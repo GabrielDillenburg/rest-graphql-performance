@@ -1,0 +1,10 @@
+{
+  "simulation": "graphql.GraphQLServiceSimulation",
+  "simulationId": "graphqlservicesimulation-20231202012458459",
+  "start": 1701480300020,
+  "description": "GraphQl Test",
+  "scenarios": ["GraphQL Users"],
+  "assertions": [
+
+  ]
+}

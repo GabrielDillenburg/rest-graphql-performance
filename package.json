@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/GabrielDillenburg/rest-graphql-performance/issues"
   },
-  "homepage": "https://github.com/GabrielDillenburg/rest-graphql-performance#readme"
+  "homepage": "https://github.com/GabrielDillenburg/rest-graphql-performance#readme",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
 }

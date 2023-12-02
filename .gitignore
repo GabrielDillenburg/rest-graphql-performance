@@ -1,2 +1,7 @@
 .DS_Store
 node_modules
+bin
+lib
+user-files
+target
+conf
